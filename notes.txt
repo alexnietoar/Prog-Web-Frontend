@@ -1,0 +1,9 @@
+Para crear nuevos componentes 
+    - ng g c components/shared/nav
+
+Para instalar Boostrap
+    - npm i bootstrap
+
+Configura carrito de compras parte inicial
+    - Ver video 1 entre minutos 28 y 30 comineza a explicar
+
