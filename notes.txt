@@ -7,3 +7,25 @@ Para instalar Boostrap
 Configura carrito de compras parte inicial
     - Ver video 1 entre minutos 28 y 30 comineza a explicar
 
+PArte 2
+
+Agregando servicios 
+    - ng g s services/
+
+Agregando clases
+    - ng g class models/
+
+Instanciando Productos y Creando metodo get
+
+video parte 2 agrega funcionalidad servicio para cargar Productos
+    - desde minuto 20
+
+Video Parte 2
+    -Desde el minuto 30 explica el proceso de inyeccion de dependecias y decorator 
+
+VIdeo parte 2
+    -desde el minuto 35 explica carrito de compras
+
+Video Parte 2
+    -agregando carrito de compras
+
