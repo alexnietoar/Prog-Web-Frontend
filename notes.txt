@@ -29,3 +29,5 @@ VIdeo parte 2
 Video Parte 2
     -agregando carrito de compras
 
+Video Parte 3
+    - Integracion de api productos y carrito compras
